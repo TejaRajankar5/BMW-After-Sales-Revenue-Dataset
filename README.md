@@ -162,12 +162,7 @@ Each row represents a single after-sales service transaction.
 * After-Sales Performance Dashboard
 * Service & Profit Analysis Dashboard
 
----
 
-## 👤 Author
-
-**Project By:Tejas Nandkishor Rajankar** 
-**Domain:** Data Analytics / Business Intelligence
 
 ---
 
