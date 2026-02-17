@@ -97,6 +97,7 @@ Each row represents a single after-sales service transaction.
 * Heatmap
 * Treemap
 * Dual Bar Charts
+<img width="1659" height="856" alt="Service   Profit Analysis Dashboard" src="https://github.com/user-attachments/assets/0587e965-ad77-4ac2-a13f-e0f4c1c6d2ff" />
 
 ---
 
