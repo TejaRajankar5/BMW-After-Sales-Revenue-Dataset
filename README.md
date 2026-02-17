@@ -168,4 +168,9 @@ Each row represents a single after-sales service transaction.
 
 ---
 
+## 👤 Author
+
+**Project By:** *[Tejas Nandkishor Rajankar]*
+Domain: Data Analytics / Business Intelligence
+---
 
