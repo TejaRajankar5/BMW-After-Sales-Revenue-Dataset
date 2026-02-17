@@ -61,6 +61,7 @@ Each row represents a single after-sales service transaction.
 ## 📊 Dashboards & Visualizations
 
 ### 1️⃣ After-Sales Performance Dashboard
+<img width="1649" height="855" alt="After-Sales Performance Dashboard" src="https://github.com/user-attachments/assets/f4e0afb8-4217-45ec-ba50-8d02dd25b6db" />
 
 **Key Insights:**
 
@@ -83,7 +84,7 @@ Each row represents a single after-sales service transaction.
 ---
 
 ### 2️⃣ Service & Profit Analysis Dashboard
-
+<img width="1659" height="856" alt="Service   Profit Analysis Dashboard" src="https://github.com/user-attachments/assets/0587e965-ad77-4ac2-a13f-e0f4c1c6d2ff" />
 **Key Insights:**
 
 * Net Profit Distribution
@@ -97,7 +98,7 @@ Each row represents a single after-sales service transaction.
 * Heatmap
 * Treemap
 * Dual Bar Charts
-<img width="1659" height="856" alt="Service   Profit Analysis Dashboard" src="https://github.com/user-attachments/assets/0587e965-ad77-4ac2-a13f-e0f4c1c6d2ff" />
+
 
 ---
 
