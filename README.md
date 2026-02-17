@@ -168,11 +168,4 @@ Each row represents a single after-sales service transaction.
 
 ---
 
-If you want, I can also:
 
-* 🔹 Customize this README for **Tableau only** or **Power BI only**
-* 🔹 Add **project objectives & business questions**
-* 🔹 Write a **resume-ready project description**
-* 🔹 Create a **GitHub repo structure**
-
-Just tell me 👍
