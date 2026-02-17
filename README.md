@@ -6,7 +6,7 @@ It’s written in a **project-ready + interview-friendly** style.
 
 # 🚗 BMW After-Sales Performance Dataset & Dashboard
 
-![amchcvsfj](https://www.greatppt.com/downloads/bmw-powerpoint-template/)
+![BMW](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLu4ojZWB9tDqP0MAhvXmbmLkKghsIqrP3IA&s)
 
 ## 📌 Project Overview
 
