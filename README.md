@@ -6,7 +6,7 @@ It’s written in a **project-ready + interview-friendly** style.
 
 # 🚗 BMW After-Sales Performance Dataset & Dashboard
 
-![BMW](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLu4ojZWB9tDqP0MAhvXmbmLkKghsIqrP3IA&s)
+![BMW](https://[encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLu4ojZWB9tDqP0MAhvXmbmLkKghsIqrP3IA&s](https://github.com/TejaRajankar5/BMW-After-Sales-Revenue-Dataset/blob/main/images.jfif))
 
 ## 📌 Project Overview
 
