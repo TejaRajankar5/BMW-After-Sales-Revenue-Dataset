@@ -6,7 +6,7 @@ It’s written in a **project-ready + interview-friendly** style.
 
 # 🚗 BMW After-Sales Performance Dataset & Dashboard
 
-![Project image](images.jfif)
+![Project image](wp10885204.jpg)
 
 ## 📌 Project Overview
 
